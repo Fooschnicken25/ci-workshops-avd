@@ -137,7 +137,6 @@ management api http-commands
 ```eos
 !
 username arista privilege 15 role network-admin secret sha512 <removed>
-username arista ssh-key ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDE9DYWbdV+zYfYFWmIAacAk0aeGwA7Bkqjik/GoHjiqZUPipKNny6UfDxoOy3Bg5DTSnIVIQY90uUB+3BAP12JpfQp3Z87ATUtVcS9b6aufqfIKwhWEo8UGOka/7R09CFBJrmgvC756ZYh3fJkiE9NRl+sbDc7sliUFWBx7Lo8vXqIElrjPmvVbDDoW62vzhAfXpym3EcTBpMpJcAGvlfaA85E507uI3X6WfcA7FGL/RgNzsqNVhTS378iCSlKQHmeGjQ6bZz73HjIMavocjzuw8yJrr8wwZiiSg219bOVLARWGaEysv0acvku+iXerwMjZc7Ffhgo2jKrtCiIuMVh arista@mississauga-day2-21-69ecb3e5-eos
 ```
 
 ### Enable Password

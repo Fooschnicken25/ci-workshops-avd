@@ -58,9 +58,7 @@ local_users:
 - name: arista
   privilege: 15
   role: network-admin
-  sha512_password: $6$arista$qjIYpt2DoQEQwFTbpt6jM9HuHUaQnIlK.zFoasyEZPem0AZ0zoNZEG9XFBR4dgDZqC67CDy7kRmK1NK.NxVEP0
-  ssh_key: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDE9DYWbdV+zYfYFWmIAacAk0aeGwA7Bkqjik/GoHjiqZUPipKNny6UfDxoOy3Bg5DTSnIVIQY90uUB+3BAP12JpfQp3Z87ATUtVcS9b6aufqfIKwhWEo8UGOka/7R09CFBJrmgvC756ZYh3fJkiE9NRl+sbDc7sliUFWBx7Lo8vXqIElrjPmvVbDDoW62vzhAfXpym3EcTBpMpJcAGvlfaA85E507uI3X6WfcA7FGL/RgNzsqNVhTS378iCSlKQHmeGjQ6bZz73HjIMavocjzuw8yJrr8wwZiiSg219bOVLARWGaEysv0acvku+iXerwMjZc7Ffhgo2jKrtCiIuMVh
-    arista@mississauga-day2-21-69ecb3e5-eos
+  sha512_password: $6$arista$w/ZKOArDY5EpznRayBi3tLO11m4za46LdKbQ2n1BrguhI7Kvc0zQWdAJn9gkh9qcnwKLCVOKjh98ty98sQowS/
 management_api_http:
   enable_https: true
   enable_vrfs:
